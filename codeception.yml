@@ -1,4 +1,4 @@
-namespace: fond-of-spryker/timestample-carts-rest-api
+namespace: fond-of-spryker/timestampable-carts-rest-api
 
 suites:
   unit:

@@ -1,5 +1,5 @@
 {
-  "name": "fond-of-spryker/timestample-carts-rest-api",
+  "name": "fond-of-spryker/timestampable-carts-rest-api",
   "description": "Add timestamples to carts rest api",
   "license": "MIT",
   "authors": [
