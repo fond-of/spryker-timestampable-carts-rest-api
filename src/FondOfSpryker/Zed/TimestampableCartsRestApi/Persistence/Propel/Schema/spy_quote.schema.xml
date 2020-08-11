@@ -2,12 +2,10 @@
 <database xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
           xsi:noNamespaceSchemaLocation="http://static.spryker.com/schema-01.xsd" name="zed"
           namespace="Orm\Zed\Quote\Persistence"
-          package="src.Orm.Zed.Quote.Persistence"
->
+          package="src.Orm.Zed.Quote.Persistence">
 
-    <table name="spy_quote" idMethod="native" allowPkInsert="true" phpName="SpyQuote">
+    <table name="spy_quote">
         <column name="created_at" type="TIMESTAMP" />
         <column name="updated_at" type="TIMESTAMP" />
     </table>
-
 </database>
